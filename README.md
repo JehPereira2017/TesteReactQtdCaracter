@@ -1,0 +1,2 @@
+# TesteReactQtdCaracter
+Created with CodeSandbox
